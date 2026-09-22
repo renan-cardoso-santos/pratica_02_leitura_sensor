@@ -30,8 +30,6 @@
 - [x] Screenshot — código compilando sem erros (`Project build complete`)
 - [x] Screenshot — monitor serial mostrando as leituras do sensor
 
-> **Onde o esforço rende nota.** Metade da avaliação está na configuração do ambiente e 20% no circuito — juntos, 70%. O código sofisticado vale 30%. Capriche nos screenshots: eles *são* a comprovação.
-
 ---
 
 ## A solução
