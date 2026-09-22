@@ -1,0 +1,9 @@
+# Configuracao versionada do projeto.
+# O sdkconfig (gerado) esta no .gitignore; este arquivo e a fonte de verdade.
+# Ao clonar o repositorio, o ESP-IDF regenera o sdkconfig a partir daqui.
+
+# Alvo da UC: ESP32-S3-DevKitC-1
+CONFIG_IDF_TARGET="esp32s3"
+
+# Nivel de log padrao: INFO faz ESP_LOGI aparecer no monitor serial.
+CONFIG_LOG_DEFAULT_LEVEL_INFO=y

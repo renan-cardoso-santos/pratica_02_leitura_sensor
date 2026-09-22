@@ -1,0 +1,6 @@
+## Equivalente ao requirements.txt: dependencias baixadas do ESP Component Registry
+## para managed_components/ (equivalente ao site-packages)
+dependencies:
+  espressif/mpu6050: "^1.2.0"
+  idf:
+    version: ">=5.0"
